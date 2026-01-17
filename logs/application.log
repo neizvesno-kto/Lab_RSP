@@ -1,0 +1,47 @@
+2025-12-17 09:55:03,667 INFO app - Вызван тестовый endpoint
+2025-12-17 09:55:04,168 INFO app - Method process_data executed in 500.82ms
+2025-12-17 09:55:04,168 INFO app - GET /test status=200 time=502.82ms
+2025-12-17 09:55:04,676 INFO app - GET /favicon.ico status=404 time=1.00ms
+2025-12-17 09:55:22,245 INFO app - Вызван тестовый endpoint
+2025-12-17 09:55:22,746 INFO app - Method process_data executed in 500.67ms
+2025-12-17 09:55:22,746 INFO app - GET /test status=200 time=501.67ms
+2025-12-17 10:34:23,564 INFO app - Вызван тестовый endpoint
+2025-12-17 10:34:24,065 INFO app - Method process_data executed in 501.52ms
+2025-12-17 10:34:24,071 INFO app - GET /test status=200 time=533.74ms
+2025-12-17 10:34:24,168 INFO app - GET /favicon.ico status=404 time=0.00ms
+2025-12-17 10:34:28,334 INFO app - Вызван тестовый endpoint
+2025-12-17 10:34:28,835 INFO app - Method process_data executed in 500.14ms
+2025-12-17 10:34:28,835 INFO app - GET /test status=200 time=501.13ms
+2025-12-17 10:34:47,583 ERROR app - Произошла ошибка
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\PythonProject8\main.py", line 49, in error
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-12-17 10:35:22,180 INFO app - Вызван тестовый endpoint
+2025-12-17 10:35:22,682 INFO app - Method process_data executed in 501.56ms
+2025-12-17 10:35:22,682 INFO app - GET /test status=200 time=501.56ms
+2025-12-17 07:59:25,598 INFO app - Вызван тестовый endpoint
+2025-12-17 07:59:26,099 INFO app - Method process_data executed in 500.18ms
+2025-12-17 07:59:26,101 INFO app - GET /test status=200 time=506.81ms
+2025-12-17 07:59:28,296 INFO app - Вызван тестовый endpoint
+2025-12-17 07:59:28,798 INFO app - Method process_data executed in 500.18ms
+2025-12-17 07:59:28,800 INFO app - GET /test status=200 time=503.84ms
+2025-12-17 08:02:43,287 INFO app - Вызван тестовый endpoint
+2025-12-17 08:02:43,789 INFO app - Method process_data executed in 500.19ms
+2025-12-17 08:02:43,791 INFO app - GET /test status=200 time=507.40ms
+2025-12-17 08:07:35,974 INFO app - Вызван тестовый endpoint
+2025-12-17 08:07:36,476 INFO app - Method process_data executed in 500.21ms
+2025-12-17 08:07:36,477 INFO app - GET /test status=200 time=506.88ms
+2025-12-17 08:09:54,552 INFO app - Вызван тестовый endpoint
+2025-12-17 08:09:55,054 INFO app - Method process_data executed in 500.16ms
+2025-12-17 08:09:55,055 INFO app - GET /test status=200 time=506.37ms
+2025-12-19 09:29:15,618 INFO app - Вызван тестовый endpoint
+2025-12-19 09:29:16,120 INFO app - Method process_data executed in 500.16ms
+2025-12-19 09:29:16,122 INFO app - GET /test status=200 time=507.69ms
+2025-12-19 09:29:29,285 INFO app - Вызван тестовый endpoint
+2025-12-19 09:29:29,787 INFO app - Method process_data executed in 500.22ms
+2025-12-19 09:29:29,789 INFO app - GET /test status=200 time=505.36ms
+2025-12-19 09:33:50,971 INFO app - Вызван тестовый endpoint
+2025-12-19 09:33:51,473 INFO app - Method process_data executed in 500.14ms
+2025-12-19 09:33:51,475 INFO app - GET /test status=200 time=507.24ms
